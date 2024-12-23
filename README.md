@@ -75,7 +75,7 @@ const devikaharshey = {
             style="width: 350px; height: auto;" />
     </a>
     <br />
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" target="_blank">
+    <a href="" target="_blank">
         <img 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
             alt="Top Langs" 
