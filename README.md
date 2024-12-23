@@ -2,6 +2,44 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=990&color=C4B5FD&center=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB!;I'm+Devika+Harshey;A+Web+Dev+Enthusiast" alt="Typing SVG" /></a>
 </h1>
 
+```javascript
+const devikaHarsheyProfile = {
+  name: "Devika Harshey",
+  title: "Passionate Developer | Creative Thinker",
+  skills: {
+    programmingLanguages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
+    webTechnologies: ["HTML", "CSS", "TailwindCSS", "Bootstrap", "React", "Next.js", "APIs"],
+    toolsAndPlatforms: [
+      "VS Code",
+      "Figma",
+      "Canva",
+      "Jupyter Notebook",
+      "GitHub",
+      "Vercel",
+      "Firebase",
+      "Postman"
+    ],
+    design: ["Wireframing", "Prototyping"],
+    writing: ["Content Writing", "Creative Writing"],
+    softSkills: [
+      "Communication",
+      "Listening Skills",
+      "Time Management",
+      "Problem Solving",
+      "Teamwork"
+    ]
+  },
+  askMeAbout: [
+    "Web development",
+    "Creative content",
+    "Building user-friendly interfaces",
+    "Prototyping designs",
+    "Exploring new technologies"
+  ],
+  funFact:
+    "Fueled by coffee, inspired by books, and coding my way through innovative solutions!"
+};
+
 <h2 align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=midnight-purple&preferLogin=false">    
         <img 
