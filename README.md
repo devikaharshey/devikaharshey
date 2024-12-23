@@ -54,8 +54,13 @@ const devikaharshey = {
   ],
 };
 ```
-    
+
+<br/>
+
 <h2 align="center">
+    
+</h2>
+<div align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=midnight-purple&preferLogin=false">    
         <img 
             alt="Devika Harshey's GitHub Stats" 
@@ -74,5 +79,11 @@ const devikaharshey = {
             alt="Top Langs" 
             style="width: 250px; height: auto;" />
     </a>
-</h2>
+    <a href="https://leetcard.jacoblin.cool/devikaharshey?theme=catppuccinMocha&font=Poppins">
+        <img 
+            src="https://leetcard.jacoblin.cool/devikaharshey?theme=catppuccinMocha&font=Poppins" 
+            alt="LeetCode Stats"
+            style="width: 250px; height: auto;" />
+    </a>
+</div>
 
