@@ -11,13 +11,13 @@
     <img src="https://github.com/user-attachments/assets/861d655d-884e-4083-9bbc-b068a33fdc30" alt="doraemon" width=30/>
     About Me
 </h2>
-<h3 align="center">Run the following command to see the magic✨:</h3>
+<h4 align="center">Run the following command to see the magic✨:</h4>
 
 ```bash
   npx devikasprofile
 ```
 
-<h3 align="center">A bit more about me:</h3>
+<h4 align="center">A bit more about me:</h4>
 
 ```javascript
 const devikaharshey = {
