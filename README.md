@@ -7,10 +7,13 @@
     About Me
 </h2>
 <p>Run the following command to see the magic✨:</p>
+
 ```bash
   npx devikasprofile
 ```
+
 <p>A bit more about me:</p>
+
 ```javascript
 const devikaharshey = {
   name: "Devika Harshey",
