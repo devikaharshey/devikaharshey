@@ -58,7 +58,8 @@ const devikaharshey = {
 <br/>
 
 <h2 align="center">
-    
+    <img src="https://github.com/user-attachments/assets/7deb2174-add5-4fff-be06-ec665c5a074b" alt="rocket" width=30/>
+    My Stats
 </h2>
 <div align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=midnight-purple&preferLogin=false">    
