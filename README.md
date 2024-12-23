@@ -31,6 +31,7 @@ const devikaHarsheyProfile = {
   },
   askMeAbout: [
     "Web development",
+    "Programming",
     "Books",
     "Exploring new technologies"
   ],
