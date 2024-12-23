@@ -2,10 +2,14 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=990&color=C4B5FD&center=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB!;I'm+Devika+Harshey;A+Web+Dev+Enthusiast" alt="Typing SVG" /></a>
 </h1>
 
+<h2>
+    <img src="https://slackmojis.com/emojis/7550-pikachu_wave" width="30"/>
+</h2>
+
 ```javascript
 const devikaharshey = {
   name: "Devika Harshey",
-  title: "Passionate Developer | Bookworm",
+  title: "Passionate Web Developer | Bookworm",
   skills: {
     programmingLanguages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
     webTechnologies: ["HTML", "CSS", "TailwindCSS", "Bootstrap", "React", "Next.js", "APIs"],
