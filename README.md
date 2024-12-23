@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Code + Tea + Creativity = The perfect hack for INNOVATION⚡</h3>
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/9b9fb763-b0e7-4e00-b4f3-edcbb8954e6a"/>
+    <img src="https://github.com/user-attachments/assets/c16ae75e-8da2-44da-b0a6-a5c75a4b041f"/>
 </div>
 
 
