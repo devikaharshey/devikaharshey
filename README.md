@@ -4,10 +4,22 @@
 
 <h2 align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=midnight-purple&preferLogin=false">    
-          <img  alt="devikaharshey's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/devikaharshey?cardType=level&theme=midnight-purple&preferLogin=false" />
+        <img 
+            alt="Devika Harshey's GitHub Stats" 
+            src="https://awesome-github-stats.azurewebsites.net/user-stats/devikaharshey?cardType=level&theme=midnight-purple&preferLogin=false" 
+            style="width: 300px; height: auto;" />
     </a>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=devikaharshey&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats">
+        <img 
+            src="https://github-readme-streak-stats.herokuapp.com?user=devikaharshey&theme=catppuccin-mocha" 
+            alt="GitHub Streak" 
+            style="width: 400px; height: auto;" />
+    </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8&theme=dark" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8&theme=dark&layout=compact" alt="Top Langs">
+        <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8&theme=dark&layout=compact" 
+            alt="Top Langs" 
+            style="width: 350px; height: auto;" />
     </a>
 </h2>
+
