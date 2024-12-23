@@ -3,7 +3,7 @@
 </h1>
 
 ```javascript
-const devikaHarsheyProfile = {
+const devikaHarshey = {
   name: "Devika Harshey",
   title: "Passionate Developer | Bookworm",
   skills: {
