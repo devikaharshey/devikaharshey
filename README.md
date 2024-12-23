@@ -13,7 +13,7 @@
         <img 
             src="https://github-readme-streak-stats.herokuapp.com?user=devikaharshey&theme=catppuccin-mocha" 
             alt="GitHub Streak" 
-            style="width: 300px; height: auto;" />
+            style="width: 350px; height: auto;" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8&theme=dark" target="_blank">
         <img 
