@@ -62,22 +62,22 @@ const devikaharshey = {
     <img src="https://github.com/user-attachments/assets/12abd5cd-fa37-479e-8f87-cb14d17ad5bf" alt="flying_bunny" style="width: 50px; height: auto;"/>
 </h2>
 <div align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=midnight-purple&preferLogin=false">    
+    <a href="https://github-readme-stats.vercel.app/api?username=devikaharshey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false">    
         <img 
             alt="Devika Harshey's GitHub Stats" 
-            src="https://awesome-github-stats.azurewebsites.net/user-stats/devikaharshey?cardType=level&theme=midnight-purple&preferLogin=false" 
+            src="https://github-readme-stats.vercel.app/api?username=devikaharshey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" 
             style="width: 300px; height: auto;" />
     </a>
-    <a href="https://git.io/streak-stats">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=devikaharshey&theme=catppuccin_mocha&hide_border=false">
         <img 
-            src="https://github-readme-streak-stats.herokuapp.com?user=devikaharshey&theme=catppuccin-mocha" 
+            src="https://github-readme-streak-stats.herokuapp.com/?user=devikaharshey&theme=catppuccin_mocha&hide_border=false" 
             alt="GitHub Streak" 
             style="width: 350px; height: auto;" />
     </a>
     <br />
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8&theme=dark" target="_blank">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" target="_blank">
         <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8&theme=dark&layout=compact" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
             alt="Top Langs" 
             style="width: 250px; height: auto;" />
     </a>
@@ -88,4 +88,7 @@ const devikaharshey = {
             style="width: 300px; height: auto;" />
     </a>
 </div>
+<br />
+
+
 
