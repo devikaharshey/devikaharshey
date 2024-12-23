@@ -1,6 +1,11 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=990&color=C4B5FD&center=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB!;I'm+Devika+Harshey;A+Web+Dev+Enthusiast" alt="Typing SVG" /></a>
 </h1>
+<h3 align="center">Code + Tea + Creativity = The perfect hack for INNOVATION⚡</h3>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/9b9fb763-b0e7-4e00-b4f3-edcbb8954e6a"/>
+</div>
+
 
 <h2 align="center">
     <img src="https://github.com/user-attachments/assets/861d655d-884e-4083-9bbc-b068a33fdc30" alt="doraemon" width=30/>
