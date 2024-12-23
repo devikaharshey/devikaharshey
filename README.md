@@ -8,8 +8,8 @@
 <br/>
 
 <h2 align="center">
-    <img src="https://github.com/user-attachments/assets/861d655d-884e-4083-9bbc-b068a33fdc30" alt="doraemon" width=30/>
     About Me
+    <img src="https://github.com/user-attachments/assets/861d655d-884e-4083-9bbc-b068a33fdc30" alt="doraemon" width=30/>
 </h2>
 <h4 align="center">Run the following command to see the magic✨:</h4>
 
@@ -58,8 +58,8 @@ const devikaharshey = {
 <br/>
 
 <h2 align="center">
-    <img src="https://github.com/user-attachments/assets/12abd5cd-fa37-479e-8f87-cb14d17ad5bf" alt="flying_bunny" style="width: 50px; height: auto;"/>
     My Stats
+    <img src="https://github.com/user-attachments/assets/12abd5cd-fa37-479e-8f87-cb14d17ad5bf" alt="flying_bunny" style="width: 50px; height: auto;"/>
 </h2>
 <div align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=midnight-purple&preferLogin=false">    
