@@ -3,9 +3,9 @@
 </h1>
 
 <h2>
-    <img src="https://github.com/user-attachments/assets/ba9b9be6-05cc-43ca-8226-07ecfefc33fe" alt="pikachu_wave" width=10/>
+    <img src="https://github.com/user-attachments/assets/ba9b9be6-05cc-43ca-8226-07ecfefc33fe" alt="pikachu_wave" height=30/>
     About Me
-    <img src="https://github.com/user-attachments/assets/f7ba3811-4349-4387-b2a1-d84cbfc39f98" alt="doraemon" width=10/>
+    <img src="https://github.com/user-attachments/assets/f7ba3811-4349-4387-b2a1-d84cbfc39f98" alt="doraemon" width=30/>
 </h2>
 
 ```javascript
