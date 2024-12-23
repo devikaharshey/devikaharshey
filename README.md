@@ -83,7 +83,8 @@ const devikaharshey = {
         <img 
             src="https://leetcard.jacoblin.cool/devikaharshey?theme=catppuccinMocha&font=Poppins" 
             alt="LeetCode Stats"
-            style="width: 250px; height: auto;" />
+            style="width: 280px; height: auto;" />
     </a>
+    ![HackerRank Profile](https://www.hackerrank.com/devikaharshey?theme=dark&font=Poppins)
 </div>
 
