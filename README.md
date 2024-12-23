@@ -3,5 +3,11 @@
 </h1>
 
 <h2 align="center">
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=midnight-purple&preferLogin=false">    <img  alt="devikaharshey's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/devikaharshey?cardType=level&theme=midnight-purple&preferLogin=false" />  </a>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=midnight-purple&preferLogin=false">    
+          <img  alt="devikaharshey's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/devikaharshey?cardType=level&theme=midnight-purple&preferLogin=false" />
+    </a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=devikaharshey&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8" alt="Top Langs">
+    </a>
 </h2>
