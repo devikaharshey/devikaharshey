@@ -58,7 +58,7 @@ const devikaharshey = {
 <br/>
 
 <h2 align="center">
-    <img src="https://github.com/user-attachments/assets/7deb2174-add5-4fff-be06-ec665c5a074b" alt="rocket" width=30/>
+    <img src="https://github.com/user-attachments/assets/7deb2174-add5-4fff-be06-ec665c5a074b" alt="rocket" height=30/>
     My Stats
 </h2>
 <div align="center">
