@@ -5,7 +5,7 @@
 ```javascript
 const devikaHarsheyProfile = {
   name: "Devika Harshey",
-  title: "Passionate Developer | Creative Thinker",
+  title: "Passionate Developer | Bookworm",
   skills: {
     programmingLanguages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
     webTechnologies: ["HTML", "CSS", "TailwindCSS", "Bootstrap", "React", "Next.js", "APIs"],
@@ -31,13 +31,9 @@ const devikaHarsheyProfile = {
   },
   askMeAbout: [
     "Web development",
-    "Creative content",
-    "Building user-friendly interfaces",
-    "Prototyping designs",
+    "Books",
     "Exploring new technologies"
   ],
-  funFact:
-    "Fueled by coffee, inspired by books, and coding my way through innovative solutions!"
 };
 ```
 
