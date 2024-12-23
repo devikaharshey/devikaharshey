@@ -39,6 +39,7 @@ const devikaHarsheyProfile = {
   funFact:
     "Fueled by coffee, inspired by books, and coding my way through innovative solutions!"
 };
+```
 
 <h2 align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=midnight-purple&preferLogin=false">    
