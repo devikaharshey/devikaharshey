@@ -61,19 +61,24 @@ const devikaharshey = {
     My Stats
     <img src="https://github.com/user-attachments/assets/12abd5cd-fa37-479e-8f87-cb14d17ad5bf" alt="flying_bunny" style="width: 50px; height: auto;"/>
 </h2>
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <a href="https://github-readme-stats.vercel.app/api?username=devikaharshey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false">    
         <img 
             alt="Devika Harshey's GitHub Stats" 
             src="https://github-readme-stats.vercel.app/api?username=devikaharshey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" 
             style="width: 300px; height: auto;" />
     </a>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=devikaharshey&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
-    <br />
+    <a href="https://git.io/streak-stats">
+        <img 
+            src="https://github-readme-streak-stats.herokuapp.com?user=devikaharshey&theme=catppuccin-mocha" 
+            alt="GitHub Streak"
+            style="width: 300px; height: auto;" />
+    </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" target="_blank">
-       <img 
+        <img 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
-            alt="Top Langs" />
+            alt="Top Langs"
+            style="width: 300px; height: auto;" />
     </a>
     <a href="https://leetcard.jacoblin.cool/devikaharshey?theme=catppuccinMocha&font=Poppins">
         <img 
