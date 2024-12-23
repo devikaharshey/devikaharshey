@@ -5,19 +5,19 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/c16ae75e-8da2-44da-b0a6-a5c75a4b041f" height="350"/>
 </div>
-
+<br/>
 
 <h2 align="center">
     <img src="https://github.com/user-attachments/assets/861d655d-884e-4083-9bbc-b068a33fdc30" alt="doraemon" width=30/>
     About Me
 </h2>
-<p align="center">Run the following command to see the magic✨:</p>
+<h3 align="center">Run the following command to see the magic✨:</h3>
 
 ```bash
   npx devikasprofile
 ```
 
-<p align="center">A bit more about me:</p>
+<h3 align="center">A bit more about me:</h3>
 
 ```javascript
 const devikaharshey = {
