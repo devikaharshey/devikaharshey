@@ -68,12 +68,7 @@ const devikaharshey = {
             src="https://github-readme-stats.vercel.app/api?username=devikaharshey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" 
             style="width: 300px; height: auto;" />
     </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=devikaharshey&theme=catppuccin_mocha&hide_border=false" target="_blank">
-       <img 
-            src="https://github-readme-streak-stats.herokuapp.com/?user=devikaharshey&theme=catppuccin_mocha&hide_border=false" 
-            alt="Streak Stats" 
-            style="width: 300px; height: auto;" />
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=devikaharshey&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
     <br />
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" target="_blank">
        <img 
