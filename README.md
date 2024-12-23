@@ -8,9 +8,9 @@
 </h2>
 <div align="center">
     <p>Run the following command to see the magic✨:</p>
-    <pre><code class="bash">
+    ```
        npx devikasprofile
-    </code></pre>
+    ```
     <p>A bit more about me:</p>
     <pre><code class="javascript">
     const devikaharshey = {
