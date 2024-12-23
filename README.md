@@ -6,7 +6,7 @@
     <img src="https://github.com/user-attachments/assets/861d655d-884e-4083-9bbc-b068a33fdc30" alt="doraemon" width=30/>
     About Me
 </h2>
-<div style="text-align: center;">
+<div align="center">
     <p>Run the following command to see the magic✨:</p>
     <pre><code class="bash">
        npx devikasprofile
