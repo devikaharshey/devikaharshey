@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center
-    <img src="https://github.com/user-attachments/assets/f7ba3811-4349-4387-b2a1-d84cbfc39f98" alt="doraemon" width=30/>
+    <img src="https://github.com/user-attachments/assets/a608afb4-3a5d-478c-b252-28180b59ecf1" alt="doraemon" width=30/>
     About Me
 </h2>
 
