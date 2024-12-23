@@ -6,42 +6,48 @@
     <img src="https://github.com/user-attachments/assets/861d655d-884e-4083-9bbc-b068a33fdc30" alt="doraemon" width=30/>
     About Me
 </h2>
-
-```javascript
-const devikaharshey = {
-  name: "Devika Harshey",
-  title: "Passionate Web Developer | Bookworm",
-  skills: {
-    programmingLanguages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
-    webTechnologies: ["HTML", "CSS", "TailwindCSS", "Bootstrap", "React", "Next.js", "APIs"],
-    toolsAndPlatforms: [
-      "VS Code",
-      "Figma",
-      "Canva",
-      "Jupyter Notebook",
-      "GitHub",
-      "Vercel",
-      "Firebase",
-      "Postman"
-    ],
-    design: ["Wireframing", "Prototyping"],
-    writing: ["Content Writing", "Creative Writing"],
-    softSkills: [
-      "Communication",
-      "Listening Skills",
-      "Time Management",
-      "Problem Solving",
-      "Teamwork"
-    ]
-  },
-  askMeAbout: [
-    "Web development",
-    "Programming",
-    "Books",
-    "Exploring new technologies"
-  ],
-};
-```
+<div style="text-align: center;">
+    <p>Run the following command to see the magic✨:</p>
+    ```
+       npx devikasprofile
+    ```
+    <p>A bit more about me:</p>
+    ```
+    const devikaharshey = {
+      name: "Devika Harshey",
+      title: "Passionate Web Developer | Bookworm",
+      skills: {
+        programmingLanguages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
+        webTechnologies: ["HTML", "CSS", "TailwindCSS", "Bootstrap", "React", "Next.js", "APIs"],
+        toolsAndPlatforms: [
+          "VS Code",
+          "Figma",
+          "Canva",
+          "Jupyter Notebook",
+          "GitHub",
+          "Vercel",
+          "Firebase",
+          "Postman"
+        ],
+        design: ["Wireframing", "Prototyping"],
+        writing: ["Content Writing", "Creative Writing"],
+        softSkills: [
+          "Communication",
+          "Listening Skills",
+          "Time Management",
+          "Problem Solving",
+          "Teamwork"
+        ]
+      },
+      askMeAbout: [
+        "Web development",
+        "Programming",
+        "Books",
+        "Exploring new technologies"
+      ],
+    };
+    ```
+</div>
 
 <h2 align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=midnight-purple&preferLogin=false">    
