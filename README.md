@@ -8,6 +8,6 @@
     </a>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=devikaharshey&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8&theme=dark" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8&theme=dark" alt="Top Langs" height="250">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8&theme=dark&layout=compact" alt="Top Langs" height="250">
     </a>
 </h2>
