@@ -84,7 +84,7 @@ const devikaharshey = {
         <img 
             src="https://leetcard.jacoblin.cool/devikaharshey?theme=catppuccinMocha&font=Poppins" 
             alt="LeetCode Stats"
-            style="width: 280px; height: auto;" />
+            style="width: 300px; height: auto;" />
     </a>
 </div>
 
