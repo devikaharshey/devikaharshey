@@ -19,7 +19,7 @@
         <img 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8&theme=dark&layout=compact" 
             alt="Top Langs" 
-            style="width: 350px; height: auto;" />
+            style="width: 150px; height: auto;" />
     </a>
 </h2>
 
