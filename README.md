@@ -73,6 +73,7 @@ const devikaharshey = {
             alt="GitHub Streak" 
             style="width: 350px; height: auto;" />
     </a>
+    <br />
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8&theme=dark" target="_blank">
         <img 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikaharshey&langs_count=8&theme=dark&layout=compact" 
@@ -85,6 +86,5 @@ const devikaharshey = {
             alt="LeetCode Stats"
             style="width: 280px; height: auto;" />
     </a>
-    ![HackerRank Profile](https://www.hackerrank.com/devikaharshey?theme=dark&font=Poppins)
 </div>
 
