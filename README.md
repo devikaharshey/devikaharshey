@@ -3,7 +3,7 @@
 </h1>
 
 <h2>
-    <img src="https://slackmojis.com/emojis/7550-pikachu_wave" width="30"/>
+    <img src="https://github.com/user-attachments/assets/ba9b9be6-05cc-43ca-8226-07ecfefc33fe" alt="pikachu_wave" width=30/>
 </h2>
 
 ```javascript
