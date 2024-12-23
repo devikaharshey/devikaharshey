@@ -2,10 +2,9 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=990&color=C4B5FD&center=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB!;I'm+Devika+Harshey;A+Web+Dev+Enthusiast" alt="Typing SVG" /></a>
 </h1>
 
-<h2 align="center">
-    <img src="https://github.com/user-attachments/assets/ba9b9be6-05cc-43ca-8226-07ecfefc33fe" alt="pikachu_wave" height=30/>
-      About Me
+<h2 align="center
     <img src="https://github.com/user-attachments/assets/f7ba3811-4349-4387-b2a1-d84cbfc39f98" alt="doraemon" width=30/>
+    About Me
 </h2>
 
 ```javascript
