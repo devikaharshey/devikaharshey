@@ -8,11 +8,11 @@
 </h2>
 <div style="text-align: center;">
     <p>Run the following command to see the magic✨:</p>
-    ```
+    <pre><code class="bash">
        npx devikasprofile
-    ```
+    </code></pre>
     <p>A bit more about me:</p>
-    ```
+    <pre><code class="javascript">
     const devikaharshey = {
       name: "Devika Harshey",
       title: "Passionate Web Developer | Bookworm",
@@ -46,7 +46,7 @@
         "Exploring new technologies"
       ],
     };
-    ```
+    </code></pre>
 </div>
 
 <h2 align="center">
