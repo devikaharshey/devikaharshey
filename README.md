@@ -89,5 +89,8 @@ const devikaharshey = {
 </div>
 <br />
 
-
+<h2 align="center">
+    GitHub Trophies
+    <img src="https://github.com/user-attachments/assets/21ad31c0-0e52-4d9c-b5f0-a7509aee8fff" alt="trophy" style="width: 50px; height: auto;"/>
+</h2>
 
