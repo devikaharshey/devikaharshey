@@ -70,7 +70,7 @@ const devikaharshey = {
     </a>
     <a href="https://git.io/streak-stats">
         <img 
-            src="https://github-readme-streak-stats.herokuapp.com?user=devikaharshey&theme=catppuccin-mocha" 
+            src="https://github-readme-streak-stats.herokuapp.com/?user=devikaharshey&theme=catppuccin_mocha&hide_border=false" 
             alt="GitHub Streak"
             style="width: 300px; height: auto;" />
     </a>
