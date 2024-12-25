@@ -107,3 +107,11 @@ const devikaharshey = {
     GitHub Contributions
     <img src="https://github.com/user-attachments/assets/ea4d85ef-67a4-40b3-985b-0d350e205896" alt="handshake" style="width: 30px; height: auto;"/>
 </h2>
+<div align="center">
+    <a href="https://github-contributor-stats.vercel.app/api?username=devikaharshey&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true">
+        <img 
+            src="https://github-contributor-stats.vercel.app/api?username=devikaharshey&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" 
+            alt="Github Contributions"
+            style="width: 750px; height: auto;" />
+    </a>
+</div>
