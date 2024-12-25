@@ -53,6 +53,13 @@ const devikaharshey = {
     "Books",
     "Exploring new technologies"
   ],
+  reachMeAt: [
+    {
+      email: "devika.harshey@gmail.com",
+      linkedin: "https://www.linkedin.com/in/devika-harshey-b4b961290/",
+      portfolio: "https://devika-harshey-portfolio.vercel.app/"
+    }
+  ],
 };
 ```
 
