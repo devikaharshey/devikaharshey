@@ -93,4 +93,9 @@ const devikaharshey = {
     GitHub Trophies
     <img src="https://github.com/user-attachments/assets/21ad31c0-0e52-4d9c-b5f0-a7509aee8fff" alt="trophy" style="width: 30px; height: auto;"/>
 </h2>
-
+<a href="https://leetcard.jacoblin.cool/devikaharshey?theme=catppuccinMocha&font=Poppins">
+    <img 
+        src="https://leetcard.jacoblin.cool/devikaharshey?theme=catppuccinMocha&font=Poppins" 
+        alt="LeetCode Stats"
+        style="width: 300px; height: auto;" />
+</a>
