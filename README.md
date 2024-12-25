@@ -8,6 +8,7 @@
 <br/>
 
 <h2 align="center">
+    <img src="https://github.com/user-attachments/assets/82582103-bfe2-4951-a31a-b28738791e9e" alt="molang" width=30/>
     About Me
     <img src="https://github.com/user-attachments/assets/861d655d-884e-4083-9bbc-b068a33fdc30" alt="doraemon" width=30/>
 </h2>
