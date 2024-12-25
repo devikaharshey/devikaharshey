@@ -98,6 +98,6 @@ const devikaharshey = {
         <img 
             src="https://github-profile-trophy.vercel.app/?username=devikaharshey&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4" 
             alt="Github Trophies"
-            style="width: 900px; height: auto;" />
+            style="width: 850px; height: auto;" />
     </a>
 </div>
