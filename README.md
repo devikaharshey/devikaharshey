@@ -112,6 +112,6 @@ const devikaharshey = {
         <img 
             src="https://github-contributor-stats.vercel.app/api?username=devikaharshey&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" 
             alt="Github Contributions"
-            style="width: 750px; height: auto;" />
+            style="width: 400px; height: auto;" />
     </a>
 </div>
