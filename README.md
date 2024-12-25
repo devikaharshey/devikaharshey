@@ -101,3 +101,9 @@ const devikaharshey = {
             style="width: 750px; height: auto;" />
     </a>
 </div>
+<br />
+
+<h2 align="center">
+    GitHub Contributions
+    <img src="https://github.com/user-attachments/assets/ea4d85ef-67a4-40b3-985b-0d350e205896" alt="handshake" style="width: 30px; height: auto;"/>
+</h2>
