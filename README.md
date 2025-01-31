@@ -25,19 +25,17 @@ const devikaharshey = {
   name: "Devika Harshey",
   title: "Passionate Web Developer | Bookworm",
   skills: {
-    programmingLanguages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
+    programmingLanguages: ["Python", "JavaScript", "TypeScript"],
     webTechnologies: ["HTML", "CSS", "TailwindCSS", "Bootstrap", "React", "Next.js", "APIs"],
     toolsAndPlatforms: [
       "VS Code",
       "Figma",
       "Canva",
-      "Jupyter Notebook",
       "GitHub",
       "Vercel",
       "Firebase",
       "Postman"
     ],
-    design: ["Wireframing", "Prototyping"],
     writing: ["Content Writing", "Creative Writing"],
     softSkills: [
       "Communication",
@@ -49,17 +47,16 @@ const devikaharshey = {
   },
   askMeAbout: [
     "Web development",
+    "Next.js",
     "Programming",
     "Books",
-    "Exploring new technologies"
+    "Songs & Instrumentals"
   ],
-  reachMeAt: [
-    {
-      email: "devika.harshey@gmail.com",
-      linkedin: "https://www.linkedin.com/in/devika-harshey-b4b961290/",
-      portfolio: "https://devika-harshey-portfolio.vercel.app/"
-    }
-  ],
+  reachMeAt: {
+    email: "devika.harshey@gmail.com",
+    linkedin: "https://www.linkedin.com/in/devika-harshey-b4b961290/",
+    portfolio: "https://devika-harshey-portfolio.vercel.app/"
+  }
 };
 ```
 
