@@ -26,8 +26,9 @@ const devikaharshey = {
   title: "Passionate Web Developer | Bookworm",
   skills: {
     programmingLanguages: ["Python", "JavaScript", "TypeScript"],
-    webTechnologies: ["HTML", "CSS", "TailwindCSS", "Bootstrap", "React", "Next.js", "APIs"],
+    webTechnologies: ["HTML", "CSS", "TailwindCSS", "Bootstrap", "React", "Next.js", "Node.js", "APIs"],
     toolsAndPlatforms: [
+      "Appwrite",
       "VS Code",
       "Figma",
       "Canva",
